@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @LuisGV5
+- 👀 Meu email de contato é luis.voltarelli@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprender a progamar novas linguagens.
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
